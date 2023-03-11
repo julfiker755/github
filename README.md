@@ -65,7 +65,7 @@ git remote remove origin
 ---> Git Branch Commands Wepsite link:-*[Git Branch Com](https://github.com/joshnh/Git-Commands)*
 > ## Remove node_modules and location check
 - rmdir node_modules
-- explorer
+- explorer .
 > ## What is Gitignore
 - কোন ফাইলকে গিটহাবে পাঠাতে না  চাইলে আমরা .gitignore  ব্যবহার করি
 ![alt text](12345.png)
