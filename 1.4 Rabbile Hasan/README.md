@@ -3,7 +3,7 @@
 </p>
 
 
- 1. Prisma Website [Link](https://prismaliser.app/)
+ 1. [prismaliser](https://prismaliser.app/)
 
 
 ```js
