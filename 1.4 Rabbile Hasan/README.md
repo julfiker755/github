@@ -3,7 +3,7 @@
 </p>
 
 
- 1. [prismaliser](https://prismaliser.app/)
+ [Prismaliser](https://prismaliser.app/)
 
 
 ```js
