@@ -121,6 +121,9 @@
 ### Progress Bar
 - [next-nprogress-bar](https://www.npmjs.com/package/next-nprogress-bar) -  A collection next-nprogress-bar
 - [nextjs-toploader](https://www.npmjs.com/package/nextjs-toploader) -  A collection nextjs-toploader
+- [nextjs image-upload](https://github.com/rupomsoft/Next-File?fbclid=IwAR1gmgxTDXFWOEkyOOct53LZuhqLSg3fUVBKUBIZQ3_J7wbzgm8X48MiWc4) -  A collection image upload
+
+
 
 
 
