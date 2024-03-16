@@ -18,4 +18,4 @@ npx prisma init --datasource-provider mysql
 npx prisma migrate dev --name init
 ```
 
-- (news)(https://github.com/julfiker755/news-protal)
+- [news](https://github.com/julfiker755/news-protal)
