@@ -12,6 +12,7 @@
 
 ### Tailwind css and library Collection
 - *[preline](https://preline.co/)* -  A collection of preline
+- *[navigateui](https://navigateui.com//)* -  A collection of navigateui
 - *[Daisyui](https://daisyui.com)* -  A collection of Daisyui
 - *[Shadcn](https://ui.shadcn.com/)* -  A collection of shadcn
 - *[Headlessui](https://headlessui.com)* -  A collection of headlessui
