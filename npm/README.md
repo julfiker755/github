@@ -20,6 +20,7 @@
 - *[Tailwindcomponents](https://tailwindcomponents.com)* -  A collection of tailwindcomponents
 - *[Mambaui](https://mambaui.com)* -  A collection of Mambaui
 - *[Merakiui](https://merakiui.com)* -  A collection of Merakiui
+- *[flowrift](https://flowrift.com/c/shopping-cart/1DPLi?view=preview)* -  A collection of flowrift
 
 
 
