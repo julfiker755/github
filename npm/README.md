@@ -55,6 +55,10 @@
 - *[sweetalert 2](https://sweetalert2.github.io/)* - A collection react sweetalert 2
 - *[React-Toastify](https://www.npmjs.com/package/react-toastify)* - A collection react react-toastify
 - *[sweetalert](https://sweetalert.js.org/guides/)* - A collection react sweetalert
+  
+### Text-Editor
+- *[react-hot-toast](https://www.npmjs.com/package/react-quill)* - A collection react-quill
+
 
 
 ### React Loader
