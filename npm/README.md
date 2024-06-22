@@ -122,6 +122,9 @@
     <h4 align="center">Back-end npm</h4>
     <hr/>
 </p>
+### Pre-commit
+- [husky](https://www.npmjs.com/package/husky) -  A collection husky
+- [lint-staged](https://www.npmjs.com/package/lint-staged) -  A collection lint-staged
 
 ### Winston
 - [winston](https://www.npmjs.com/package/winston) -  A collection winston
