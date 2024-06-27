@@ -16,6 +16,8 @@ npx prisma init --datasource-provider mysql
 
 ```js
 npx prisma migrate dev --name init
+// mongobd
+npx prisma generate
 ```
 
 - [news Protal](https://github.com/julfiker755/news-protal)
