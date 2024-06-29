@@ -29,6 +29,7 @@
 
 > ## **Origin diya download**
 - git clone https://github.com/ProgrammingHero1/redux-cart.git
+- git clone https://github.com/ProgrammingHero1/redux-cart.git my-app
 
 > ## github remove (.env node_modules) file
 0. ভুলে .env ফোল্ডারটি git add,commit push করে  গিটহাব  আপলোড করে ফেলেছি.এখন কি করব ✔Solutions
