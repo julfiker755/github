@@ -63,9 +63,7 @@
 | git checkout [branch name] | Switch to a branch |
 |
 ---> Git Branch Commands Wepsite link:-*[Git Branch Com](https://github.com/joshnh/Git-Commands)*
-> ## What is Gitignore
-- কোন ফাইলকে গিটহাবে পাঠাতে না  চাইলে আমরা .gitignore  ব্যবহার করি
-![alt text](12345.png)
+
 > ## Visual Studio Code Extension
 - Visual Studio Code extension
   - Live Server
