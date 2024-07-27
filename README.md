@@ -27,6 +27,11 @@
 7. git remote set-url origin https://github.com/ProgrammingHero1/redux-cart.git
 8. git push
 
+> ## **fatal error**
+ - git config --global --unset http.proxy
+ - git config --global --unset https.proxy
+
+
 > ## **Origin diya download**
 - git clone https://github.com/ProgrammingHero1/redux-cart.git
 - git clone https://github.com/ProgrammingHero1/redux-cart.git my-app
