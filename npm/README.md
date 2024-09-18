@@ -115,8 +115,8 @@
 
 ### handsontabe table/Excel demo 
 - [handsontable](https://handsontable.com/demo) -  A collection handsontable
-### skeleton
-- [skeleton](https://www.npmjs.com/package/react-loading-skeleton) -  A collection skeleton
+
+
 ### Hash Link
 - [react-router-hash-link](https://www.npmjs.com/package/react-router-hash-link) -  A collection react-router-hash-link
 
