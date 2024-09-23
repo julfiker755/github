@@ -117,8 +117,9 @@
 - [handsontable](https://handsontable.com/demo) -  A collection handsontable
 
 
-### Hash Link
+### Hash Link/scrollber
 - [react-router-hash-link](https://www.npmjs.com/package/react-router-hash-link) -  A collection react-router-hash-link
+- [tailwind-scrollbar-hide](https://www.npmjs.com/package/tailwind-scrollbar-hide) -  A collection tailwind-scrollbar-hide
 
 ### Img Host
 - [imgbb](https://imgbb.com) -  A collection Imgbb
