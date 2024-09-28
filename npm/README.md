@@ -50,7 +50,8 @@
 - *[date-fns](https://www.npmjs.com/package/date-fns)+[discripation 💢](https://github.com/julfiker755/IMPORTANT/tree/main/date%20fns)* - A collection react js date-fns
 ### Meta Tags
 - *[react-helmet-async](https://www.npmjs.com/package/react-helmet-async)* - A collection react js react-helmet-async
-### React Alert
+### React Alert/Tost
+- *[sonner Tost](https://sonner.emilkowal.ski/)* - A collection sonner
 - *[react-hot-toast](https://react-hot-toast.com/)* - A collection react-hot-toast
 - *[sweetalert 2](https://sweetalert2.github.io/)* - A collection react sweetalert 2
 - *[React-Toastify](https://www.npmjs.com/package/react-toastify)* - A collection react react-toastify
