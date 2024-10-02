@@ -11,10 +11,11 @@
 - *[Keep-React](https://react.keepdesign.io/)* -  A collection of Keep React
 
 ### Tailwind css and library Collection
+- *[magicui](https://magicui.design/)* -  A collection of magicui
+- *[Shadcn](https://ui.shadcn.com/)* -  A collection of shadcn
 - *[preline](https://preline.co/)* -  A collection of preline
 - *[navigateui](https://navigateui.com//)* -  A collection of navigateui
 - *[Daisyui](https://daisyui.com)* -  A collection of Daisyui
-- *[Shadcn](https://ui.shadcn.com/)* -  A collection of shadcn
 - *[Headlessui](https://headlessui.com)* -  A collection of headlessui
 - *[Flowbite](https://flowbite.com)* -  A collection of Flowbite
 - *[Tailwindcomponents](https://tailwindcomponents.com)* -  A collection of tailwindcomponents
