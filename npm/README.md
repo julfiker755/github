@@ -70,7 +70,7 @@
 - *[custom-spinners-live](https://julfiker755.github.io/Animation-css)+[Github code](https://github.com/julfiker755/Animation-css)* - A collection custom-spinners
 
   
-### React Loading Skeleton
+### Skeleton
 - *[React Loading Skeleton](https://www.npmjs.com/package/react-loading-skeleton)* - A collection react-loading-skeleton
 
 ### Icons
@@ -85,7 +85,7 @@
 - *[Threejs](https://threejs.org)*+A collection threejs
 - *[Framer](https://www.framer.com/motion)*+A collection framer
 - *[React-spring](https://www.react-spring.dev/docs/components)*+A collection react-spring
-- *[svg-skeleton](https://svg-skeleton.js.org/)*+A collection svg-skeleton
+
 ###  Timeline
 - *[react-vertical-timeline-component](https://www.npmjs.com/package/react-vertical-timeline-component)*- A collection react-vertical-timeline-component
 
@@ -137,6 +137,11 @@
 ### jwt
 - [jwt-decode](https://www.npmjs.com/package/jwt-decode) -  A collection jwt-decode
 - [js-cookie(react js)](https://www.npmjs.com/package/js-cookie) -  A collection js-cookie
+
+
+### seo
+- [open-grap](https://ogp.me/) -  A collection open grap
+- [schema](https://schema.org/docs/gs.html) -  A collection schema
 
 
 
