@@ -147,6 +147,7 @@
 ### Chats
 - [apexcharts](https://apexcharts.com/) -  A collection apexcharts
 - [chartjs](https://www.chartjs.org/) -  A collection chartjs
+- [recharts](https://recharts.org/en-US/) -  A collection recharts
 
 
 
