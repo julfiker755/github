@@ -38,6 +38,7 @@
 ### Carousel / Slider
 - *[swiperjs](https://swiperjs.com/)* - A collection of swiperjs
 - *[React-multi-carousel](https://www.npmjs.com/package/react-multi-carousel)* - A collection of react-multi-carousel
+- *[embla-carousel](https://www.npmjs.com/package/embla-carousel)* - A collection of embla-carousel
 ### recaptcha
 - *[react-google-recaptcha](https://github.com/dozoisch/react-google-recaptcha)* - A collection of react-google-recaptcha
 - *[react-simple-captcha](https://www.npmjs.com/package/react-simple-captcha)* - A collection of react-simple-captcha
