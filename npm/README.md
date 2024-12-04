@@ -9,6 +9,8 @@
 
 ### React js /Next js component  library for Bangladesh
 - *[Keep-React](https://react.keepdesign.io/)* -  A collection of Keep React
+- *[Zenui](https://zenui.net/)* -  A collection of Zenui
+- *[WindUi](https://wind-ui.com)* -  A collection of wind-ui
 
 ### Tailwind css and library Collection
 - *[magicui](https://magicui.design/)* -  A collection of magicui
