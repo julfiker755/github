@@ -5,6 +5,8 @@
 - Basic Prisma Query [Source Code](https://github.com/julfiker755/basic-prisma-query)
 - Relation to Advance Prisma Query [Source Code](https://github.com/julfiker755/relation-advance-prisma-query)
 - Prisma Advanced Patterns Query [Source Code](https://github.com/julfiker755/prisma-advanced-patterns)
+- Ph-health-care-server [Source Code](https://github.com/julfiker755/Prisma-ph-health-care-server)
+- Ph-health-care-fronted [Source Code](https://github.com/julfiker755/Ph-health-care-fronted)
 
 
 
