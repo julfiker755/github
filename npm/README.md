@@ -150,6 +150,11 @@
 - [schema](https://schema.org/docs/gs.html) -  A collection schema
 
   
+### svg compontens
+- [react js]([https://ogp.me/](https://www.npmjs.com/package/vite-plugin-svgr)) -  A collection svg
+- [next js](https://www.npmjs.com/package/@svgr/webpack) -  A collection svg
+
+  
 ### Chats
 - [apexcharts](https://apexcharts.com/) -  A collection apexcharts
 - [chartjs](https://www.chartjs.org/) -  A collection chartjs
