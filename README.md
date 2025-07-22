@@ -51,6 +51,9 @@
 1. fac6322 Contact Numbers Added
 2. git checkout fac6322
 
+> ## folder name not change
+3. git config core.ignorecase false
+
 
 > ## Markdown
 - Readme file ta dekte caile…………….
