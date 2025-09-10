@@ -55,6 +55,11 @@
 3. git config core.ignorecase false
 
 
+> ## github power
+1.https://github1s.com/julfiker755
+2.https://githubbox.com/julfiker755
+
+
 > ## Markdown
 - Readme file ta dekte caile…………….
 - clt+shift+P and Markdown:Open Preview(clt+Shit+V)
