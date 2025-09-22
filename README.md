@@ -79,6 +79,7 @@
 
 > ## Visual Studio Code Extension
 - Visual Studio Code extension
+  - svg-fold
   - Live Server
   - css-auto-prefix
   - Monokai Dark Soda(color change)/Flatland Monokai Theme
