@@ -104,6 +104,9 @@
 - tawild css extenstion
   - Tailwind CSS IntelliSense
   - Inline fold
+- theme
+  - Tokyo Night
+  - Learn with Sumit Theme
 
 
 > ## Brower Extensition
