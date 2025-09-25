@@ -146,14 +146,10 @@
 > ## Code Editor
  - [Replit](https://replit.com)
  - 
-> ## Api fetch tool
- - [postman](https://www.postman.com/)
- - [apidog](https://apidog.com/)
+> ##  ai coding
+ - [cursor](https://cursor.com/)
+ - [trae](https://www.trae.ai/)
 
-
-```js
-// https://www.bezkoder.com/
-```
 
 
 
