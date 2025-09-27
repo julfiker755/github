@@ -149,6 +149,8 @@
 > ##  ai coding
  - [cursor](https://cursor.com/)
  - [trae](https://www.trae.ai/)
+ - [Goder](https://docs.qoder.com/)
+   
 
 
 
