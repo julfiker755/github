@@ -64,6 +64,7 @@
 ### Text-Editor
 - *[react-quill](https://www.npmjs.com/package/react-quill)* - A collection react-quill
 - *[suneditor-react](https://www.npmjs.com/package/suneditor-react)* - A collection suneditor-react
+- *[Editorjs](https://editorjs.io/)* - A collection editorjs
 
 
 
@@ -214,6 +215,7 @@
 
 
   
+
 
 
 
